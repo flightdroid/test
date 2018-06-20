@@ -1,1 +1,1 @@
-console.log("is this thing on");
+console.log(document.getElementById("13"));
